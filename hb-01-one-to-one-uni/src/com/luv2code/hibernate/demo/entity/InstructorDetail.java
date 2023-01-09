@@ -28,7 +28,7 @@ public class InstructorDetail {
 	@Column(name="id")
 	private int id;
 	
-	@Column(name="youtube-channel")
+	@Column(name="youtube_channel")
 	private String youtubeChannel;
 	
 	@Column(name="hobby")
